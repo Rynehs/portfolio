@@ -1,0 +1,37 @@
+{
+  "header": {
+    "logo": "Henry",
+    "menu": [
+      {
+        "link": "#home",
+        "icon": "uil uil-estate",
+        "text": "Home"
+      },
+      {
+        "link": "#about",
+        "icon": "uil uil-user",
+        "text": "About"
+      },
+      {
+        "link": "#skills",
+        "icon": "uil uil-file-alt",
+        "text": "Skills"
+      },
+      {
+        "link": "#qualification",
+        "icon": "uil uil-briefcase-alt",
+        "text": "Qualification"
+      },
+      {
+        "link": "#portfolio",
+        "icon": "uil uil-scenery",
+        "text": "Portfolio"
+      },
+      {
+        "link": "#contact",
+        "icon": "uil uil-message",
+        "text": "Contact"
+      }
+    ]
+  }
+}
